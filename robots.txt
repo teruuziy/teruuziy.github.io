@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://teruuziy.github.io/sitemap/sitemap.txt
